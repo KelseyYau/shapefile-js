@@ -1,6 +1,6 @@
 {
   "name": "shpjs-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "改造的shapefile-js，基于https://github.com/calvinmetcalf/shapefile-js",
   "main": "lib/index.js",
   "repository": {
@@ -34,7 +34,7 @@
     "lru-cache": "^2.7.0",
     "parsedbf": "^1.1.0",
     "proj4": "^2.1.4",
-    "iconv-lite":"0.4.24"
+    "iconv-lite":"^0.4.24"
   },
   "browser": {
     "./lib/binaryajax.js": "./lib/binaryajax-fetch.js"
